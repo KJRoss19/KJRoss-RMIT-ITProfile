@@ -13,13 +13,13 @@
 </div>
 
 <b><center>Personal Info:</center></b>My name is Kyle, I have a pet cat named Milo, and a fox-terrier named Trixie, I’ve lived on the Gold Coast my whole life and have far too many hobbies to express here, though to name my longest running and those I consider passions, 
-they are video-games, music, bodybuilding, and watching basketball, where I support the Philadelphia 76ers<br>
+they are video-games, music, bodybuilding, and watching basketball, where I support the Philadelphia 76ers.<br>
 <div class="align-img"><img src="pictures/milo.jpg" style="width:278px;height:400px;float:left;"></div>
 <div class="align-img"><img src="pictures/gymphoto.png" style="width:278px;height:400px;float:left"></div>
 <div class="align-img"><img src="pictures/trixie.jpg" style="width:277px;height:400px;float:left;"></div>
 
 
-<b><center>Interest in IT:</center></b>- My interest in IT stemmed from my love of video-games as a child, I owned a , I owned a PlayStation 2 and found myself spending hours upon hours using it, when I was thirteen however, I started to take interest in computer games, and from there 
+<b><center>Interest in IT:</center></b>- My interest in IT stemmed from my love of video-games as a child, I owned a PlayStation 2 and found myself spending hours upon hours using it. As I turned thirteen, I started to take interest in games on my computer rather than console, from there 
 I further developed my interest in not only games, but computer programs.<br>- My experience in IT is fairly barebones, my schools IT classes were not taught by very knowledgeable teachers, often my teacher (who was the head of IT) required help from the students, 
 and those who weren’t gifted in understanding computers were left behind, as a result. Unfortunately, this resulted in me not enjoying learning IT as a didn't have the proper technique nor drive to self-learn. Instead, most of my knowledge is from computing as a hobby, rather than from an institution.
 <br>- I chose to enroll in IT at RMIT to test the waters, and to see if I would like the subject, this was suggested to me by an advisor from OUA.
@@ -64,7 +64,22 @@ While I don’t think I’m the type to sit back and let everything be decided f
 </div>
 
 <b><center>Protein Intake Calculator</center></b><br>
- calculator that specializes in tracking and informing the user of the amount of protein intake they require to sufficiently build muscle while after exercising
+ My project idea is to create a calculator program that specializes in tracking and informing the user of the amount of protein intake they’ve consumed and further require to sufficiently build muscle after exercising. 
+ This project intends to be a tool that which informs and encourages proper eating of protein contents to then maximize muscle growth from activity.<br><br>
+ When it comes to bodybuilding and actively going to the gym, it is required that you eat enough protein throughout the day to ensure you are able to build muscle, for if you do not get the require protein but are still working out, you are hindering your progress and leaving potential strength 
+ and muscle gains on the table. As someone who has a passion for the gym and bodybuilding, as I had always been skinny and underweight, I first started attending the gym in an attempt to gain mass rather than lose it, and as an active member in the bodybuilding and gym community online, 
+ I know there is an interest in the market for people like myself who would benefit from this project. Being only a program, and with the majority of the world now filled with people possessing their own computers, this project has no upfront financial costs.<br><br>
+ The product is intended to be a lightweight .exe application that will allow the user to enter their current weight, as well as the food items they have consumed throughout the day. I plan to include the set protein values of certain food items such as protein powders, eggs, chicken, turkey, 
+ steak and various other popular meats and high-protein food options. The user will input multiple values, the first being their weight, followed by which foods they’ve eaten that day. The calculator will then return the amount of protein ingested through those meals and items of food. 
+ For example: the user reports themselves having had a three-egg omelet breakfast, the calculator, knowing an egg is six grams of protein, will report the user having consumed 18 grams of protein for the day, and will add it to their total protein consumed, while also showing how much more protein 
+ need be consumed to meet their goals. Outside of these food choices, meals such as breakfast, lunch, and dinner amounts will allow the user to input the amount of protein they consumed in these meals. I also intend to have other functions built into the calculator, such as a FAQ section that 
+ which details how the calculator determines the require amount of protein users require, suggested high-protein snacks and foods, and a website link to the food standards Australia & New Zealand site, which lists foods nutritional values in their database.<br><br>
+ The skills required to succeed in the building of this project include proficient knowledge in a programming language, as the calculator will require its own custom code. I intend to use C# as my choice in language, with Visual Studio being the program I will use for the writing and testing of the code. The choice to use C# coincides with my ideal job requiring proficiency in the language. 
+ As I plan this project to be a computer program, the only hardware required for this project is a computer<br><br>
+ If this project is successful, it will be beneficial to those people who are looking to build muscle to become a healthier weight. Though not talked about enough, being underweight and undereating is a problem that should be considered the same as overeating or of being overweight, 
+ with the assistance of this calculator, it could help contribute to people becoming healthier weights, as well as an encouragement to attend the gym regularly, a habit I find to be not only healthy physically, but mentally.
+
+
 
 
 </div>
