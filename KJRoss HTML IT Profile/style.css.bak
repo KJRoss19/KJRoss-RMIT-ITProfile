@@ -1,0 +1,62 @@
+body {
+background: #A09ABC;
+font-size: 13pt;
+	font-family: "Times New Roman";
+	
+}
+
+.column-head {
+	font-family:"Courier New";
+	font-size: 24pt;
+	text-align: center;
+}
+
+.center-col {
+	background-color: #D5CFE1;
+	width: 33.33%;
+	height: 94%;
+	float: left;
+	border-style: solid;
+}
+
+.left-col {
+	background-color: #B6A6CA;
+	width: 33.33%;
+	height: 94%;
+	float: left;
+	
+}
+.right-col {
+	background-color: #B6A6CA;
+	width: 33.33%;
+	height: 94%;
+	float: right;
+	
+}
+.footer {
+	height: 3%;
+	bottom:0;
+}
+.header-title {
+	font-family:"Courier New";
+	font-size: 24pt;
+	text-align: center;
+	height: 5%;
+	top:0;
+}
+.align-img{
+    float:left;
+	width: 33.33%;
+	padding: 5px;
+	height: 400px;
+}
+
+p {
+	font-size: 14pt;
+	font-family: "Times New Roman";
+	padding: 3px;
+}
+d {
+	font-size: 10pt;
+	font-family: "Times New Roman";
+}
