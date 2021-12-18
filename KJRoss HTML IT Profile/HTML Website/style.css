@@ -1,8 +1,8 @@
 body {
-background: #A09ABC;
+background: #b7c2ce;
 font-size: 13pt;
 	font-family: "Times New Roman";
-	padding: 1px;
+	
 }
 
 .column-head {
@@ -12,7 +12,7 @@ font-size: 13pt;
 }
 
 .center-col {
-	background-color: #D5CFE1;
+	background-color: #e1e8ef;
 	width: 33.33%;
 	height: 94%;
 	float: left;
@@ -20,14 +20,14 @@ font-size: 13pt;
 }
 
 .left-col {
-	background-color: #B6A6CA;
+	background-color: #ebeef3;
 	width: 33.33%;
 	height: 94%;
 	float: left;
 	
 }
 .right-col {
-	background-color: #B6A6CA;
+	background-color: #ebeef3;
 	width: 33.33%;
 	height: 94%;
 	float: right;
